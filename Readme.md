@@ -76,5 +76,13 @@ Os testes manuais são importantes, **principalemnte para a aceitação por part
 </br>
 </br>
 Ter testes automatizados não é uma garantia **de que não vão existir defeitos**, nem com 100% de cobertura.
-
+</br>
+</br>
+Porque muita gente tenta escrever testes e se frustra, **pelo menos no início**?
+* Escrever os testes requer muita *disciplina*.
+* Existe muita **ansiedade**, queremos sempre ver tudo "funcionando".
+* Nos acostumamos a começar pela tela ou pelo banco de dados, **não pelo domínio**.
+* **Não termos informações suficientes** para começar a desenvolver.
+* Muitas vezes o design e a arquitetura não favorecem a **automação dos testes**.
+* 
 
