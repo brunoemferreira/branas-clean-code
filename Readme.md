@@ -65,4 +65,11 @@ $ npx ts-jest config:init
 * **Condições confusas** remover condições aninhada por clausulas guarda.
 * **Consolidar expressão condicional** remover aninhamento.
 * **Introduzir comando ternário** sempre que der, não utilizar ternário aninhado.
-* **Falta de tratamento de exceções** substituir o código de erro por exceção.  
+* **Falta de tratamento de exceções** substituir o código de erro por exceção.
+
+## TDD - Test-Driven Development
+
+Os testes automatizados são a **unica forma** que temos para _garantir que o código funciona e continuará funcionando_.
+
+
+
