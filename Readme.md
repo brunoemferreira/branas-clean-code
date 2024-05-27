@@ -56,4 +56,5 @@ $ npx ts-jest config:init
 
 * **Nomes estranhos** de variáveis, métodos e classes. 
 * **Números Mágicos** substituir numeros mágicos por constantes. 
-* **Comentários** 
+* **Comentários** Código comentado não deve ser comitado
+* 
