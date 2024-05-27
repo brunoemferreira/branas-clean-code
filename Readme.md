@@ -56,5 +56,9 @@ $ npx ts-jest config:init
 
 * **Nomes estranhos** de variáveis, métodos e classes. 
 * **Números Mágicos** substituir numeros mágicos por constantes. 
-* **Comentários** Código comentado não deve ser comitado
-* 
+* **Comentários** Código comentado não deve ser comitado e deve ser apagado
+* **Linha em Branco** dentro do método não deve ter linha em branco, apagar as linhas em branco.
+* **Código Duplicado** aplicar extração de método.
+* **Longa Lista de Parâmetros** aplicar extração de classe.
+* **Variáveis declaradas longe da utilização** levar a declaração da variável para perto da utilização.
+* **Variáveis com declaração conjunta** desfazer junção, declarando a variável isoladamente. 
