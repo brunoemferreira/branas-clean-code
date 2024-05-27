@@ -70,6 +70,9 @@ $ npx ts-jest config:init
 ## TDD - Test-Driven Development
 
 Os testes automatizados são a **unica forma** que temos para _garantir que o código funciona e continuará funcionando_.
+</br>
+</br>
+Os testes manuais são importantes, **principalemnte para a aceitação por parte de usuários-chave**, mas devem ser complementares e _não garantem que não existirá a regressão ao longo do tempo_.
 
 
 
