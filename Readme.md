@@ -73,6 +73,7 @@ Os testes automatizados são a **unica forma** que temos para _garantir que o c�
 </br>
 </br>
 Os testes manuais são importantes, **principalemnte para a aceitação por parte de usuários-chave**, mas devem ser complementares e _não garantem que não existirá a regressão ao longo do tempo_.
-
+</br>
+Ter testes automatizados não é uma garantia **de que não vão existir defeitos**, nem com 100% de cobertura.
 
 
