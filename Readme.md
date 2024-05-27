@@ -84,5 +84,5 @@ Porque muita gente tenta escrever testes e se frustra, **pelo menos no início**
 * Nos acostumamos a começar pela tela ou pelo banco de dados, **não pelo domínio**.
 * **Não termos informações suficientes** para começar a desenvolver.
 * Muitas vezes o design e a arquitetura não favorecem a **automação dos testes**.
-* 
+* Achar que os testes precisam ser de **unidade**. 
 
